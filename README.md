@@ -26,38 +26,8 @@ This project includes:
 - **Data Architecture:** Designing a modern data warehouse using Medallion Architecture.
 - **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
 - **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
-- **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
-
+- **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.  
 ---
-
-## 🎯 Skills & Roles Covered
-
-This repository is ideal for professionals and students looking to showcase skills in:
-
-- SQL Development  
-- Data Architecture  
-- Data Engineering  
-- ETL Pipeline Development  
-- Data Modeling  
-- Data Analytics  
-
----
-
-## 🛠️ Tools & Resources
-
-Everything required for this project is freely available:
-
-- 📂 **Datasets:** CSV files for ERP and CRM systems.
-- 🗄️ **SQL Server Express:** Lightweight SQL Server instance for hosting your database.
-- 🖥️ **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
-- 🐙 **Git & GitHub:** For version control and project collaboration.
-- 📐 **DrawIO:** To design data architecture diagrams, data flows, and models.
-- 📑 **Notion:** Project management template and phase documentation.
-- 📌 **Notion Project Steps:** Access to all project phases and detailed task breakdowns.
-
----
-
-## 🚀 Project Requirements
 
 ### 📦 Data Warehouse (Data Engineering)
 
@@ -85,9 +55,6 @@ Develop SQL-based analytics to deliver insights into:
 
 These insights will empower stakeholders with key business metrics for data-driven decision-making.
 
-📄 For more details, refer to [`docs/requirements.md`](docs/requirements.md).
-
----
 
 ## 📂 Repository Structure
 
